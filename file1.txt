@@ -4,3 +4,7 @@ add content to file1 from remote repo
 add content to file1 from local repo
 add content to file1 from local repo dev branch
 add content on line6 from dev brach
+add line 7 to dev brach
+add line 8 to dev brach
+add line 9 to dev branch
+add line 10 to dev brach
